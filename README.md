@@ -24,7 +24,7 @@
   </p>
 </p>
 
-Alda is a text-based programming language for music composition. It allows you
+Alda is my text-based programming language for music composition. It allows you
 to compose and play back music using only your text editor and the command line.
 
 ```alda
